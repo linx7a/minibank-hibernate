@@ -4,6 +4,7 @@ import org.springframework.stereotype.Component;
 import sorokin.java.course.console.ConsoleInput;
 import sorokin.java.course.operations.ConsoleOperationType;
 import sorokin.java.course.operations.OperationCommand;
+import sorokin.java.course.user.User;
 import sorokin.java.course.user.UserService;
 
 @Component
